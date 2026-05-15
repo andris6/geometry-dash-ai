@@ -41,11 +41,3 @@ Before run, set these options in Geometry Dash:
 
 You can always stop the training and restart it later (just press `Ctrl+C`)
 
-## What to expect from this
-
-- **30 min spent traing:** It randomly survives a few secs  
-- **2-3 hours spent training:** It'll always clear at least the first spike  
-- **1-2 days spent traing:** It can reach like 30% of a easy level  
-- **several days spent training:** Real progress, on harder levels  
-
-
